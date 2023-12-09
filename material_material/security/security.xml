@@ -1,0 +1,12 @@
+<!-- <?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="module_category_material" model="ir.module.category">
+        <field name="name">Material</field>
+    </record>
+
+    <record id="record_name" model="model_name">
+        <field name="field_name">field_value</field>
+    </record>
+
+</odoo> -->
